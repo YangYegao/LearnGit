@@ -1,4 +1,5 @@
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
 
+abcdefghijklmnopqrstuvwxyz
 
 test git reflog command
